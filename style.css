@@ -2,3 +2,8 @@
 body {
     background-color: black;
 }
+
+/* On ajoute un ligne css*/
+h1 {
+    text-align: center;
+}
